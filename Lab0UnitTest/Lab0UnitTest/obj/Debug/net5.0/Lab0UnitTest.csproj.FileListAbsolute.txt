@@ -1,0 +1,16 @@
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\bin\Debug\net5.0\Lab0UnitTest.exe
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\bin\Debug\net5.0\Lab0UnitTest.deps.json
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\bin\Debug\net5.0\Lab0UnitTest.runtimeconfig.json
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\bin\Debug\net5.0\Lab0UnitTest.runtimeconfig.dev.json
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\bin\Debug\net5.0\Lab0UnitTest.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\bin\Debug\net5.0\ref\Lab0UnitTest.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\bin\Debug\net5.0\Lab0UnitTest.pdb
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.csprojAssemblyReference.cache
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.AssemblyInfoInputs.cache
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.AssemblyInfo.cs
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\ref\Lab0UnitTest.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.pdb
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab02UnitTest\Lab0UnitTest\Lab0UnitTest\obj\Debug\net5.0\Lab0UnitTest.genruntimeconfig.cache
