@@ -3,7 +3,7 @@ using System;
 
 namespace Lab02UnitTest
 {
-    class Program
+   public class Program
     {
         static public decimal Balance = 0;
 
